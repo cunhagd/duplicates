@@ -4,8 +4,8 @@ import os
 # Adiciona o diretório 'scr' ao sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'scr')))
 
-from find import main as find_duplicates
-from clean import main as clean_duplicates
+from scr.find import main as find_duplicates
+from scr.clean import main as clean_duplicates
 
 def main():
     print("Iniciando o processo de verificação e limpeza de duplicatas...")
