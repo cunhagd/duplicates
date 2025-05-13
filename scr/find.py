@@ -3,24 +3,15 @@ import json
 import os
 from datetime import datetime
 
-# Configurações do banco de dados
-DB_HOST = "metro.proxy.rlwy.net"
-DB_PORT = "30848"
-DB_NAME = "railway"
-DB_USER = "postgres"
-DB_PASSWORD = "HomctJkRyZIGzYhrlmFRdKHZPJJmWylh"
-DB_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+# Obtém a string de conexão do ambiente
+DB_URL = os.getenv("DB_URL")
 
 # Função para conectar ao banco de dados
 def connect_db():
     try:
-        conn = psycopg2.connect(
-            host=DB_HOST,
-            port=DB_PORT,
-            database=DB_NAME,
-            user=DB_USER,
-            password=DB_PASSWORD
-        )
+        if not DB_URL:
+            raise ValueError("A variável de ambiente DB_URL não está definida")
+        conn = psycopg2.connect(DB_URL)
         return conn
     except Exception as e:
         print(f"Erro ao conectar ao banco de dados: {e}")

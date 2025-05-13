@@ -6,6 +6,13 @@
   },
   "deploy": {
     "startCommand": "python main.py",
-    "cronSchedule": "30 * * * *"
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 10,
+    "cron": [
+      {
+        "schedule": "*/30 * * * *",
+        "command": "python main.py"
+      }
+    ]
   }
 }

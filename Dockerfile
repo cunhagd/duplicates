@@ -19,9 +19,9 @@ RUN curl -O https://downloads.rclone.org/rclone-current-linux-amd64.deb && \
     dpkg -i rclone-current-linux-amd64.deb && \
     rm rclone-current-linux-amd64.deb
 
-# Copiar código
+# Copiar todo o projeto
 WORKDIR /app
-COPY main.py .
+COPY . .
 
 # Instalar dependências Python
 RUN pip install psycopg2-binary==2.9.9
