@@ -1,11 +1,112 @@
 {
-    "generated_at": "2025-05-13T14:55:31.608973",
+    "generated_at": "2025-05-13T20:56:31.378352",
     "summary": {
+        "total_deleted_from_lixeira": 24,
+        "total_deleted_internal_duplicates": 0,
+        "total_deleted": 24,
         "total_kept": 0,
-        "total_deleted": 0,
-        "total_strategic_kept": 0
+        "total_strategic_kept": 0,
+        "deleted_by_lixeira": 24,
+        "deleted_by_noticias": 0
     },
+    "deleted_from_lixeira": [
+        {
+            "id": 2514,
+            "link": "https://jornalgeraes.com.br/ufop-suspende-aulas-para-discutir-orcamento/"
+        },
+        {
+            "id": 2515,
+            "link": "https://jornalgeraes.com.br/novo-espaco-do-judo-de-ouro-e-entregue-em-mariana/"
+        },
+        {
+            "id": 2496,
+            "link": "https://www.aredacao.com.br/noticias/232337/nos-eua-caiado-destaca-boa-articulacao-da-politica-internacional-brasileira"
+        },
+        {
+            "id": 2517,
+            "link": "https://jornalvozativa.com/noticias/biografia-de-dom-francisco-barroso-filho-e-lancada-em-clima-de-celebracao-em-ouro-preto-mg/"
+        },
+        {
+            "id": 2520,
+            "link": "https://pocosja.com.br/2025/05/13/ufv-cria-curativo-biodegradavel/"
+        },
+        {
+            "id": 2522,
+            "link": "https://plantaosantamariense.com.br/noticia/45178/confira-as-vagas-de-emprego-disponiveis-no-sine-itabira-nesta-terca-feira-13-de-maio"
+        },
+        {
+            "id": 2525,
+            "link": "https://www.tvcaete.com.br/noticia/99511/previsao-do-tempo-para-minas-gerais-nesta-terca-feira-13-de-maio"
+        },
+        {
+            "id": 2529,
+            "link": "https://www.em.com.br/colunistas/helvecio-carlos/2025/05/7144481-ufmg-homenageia-freusa-zechmeister-que-morreu-em-dezembro-de-2024.html"
+        },
+        {
+            "id": 2532,
+            "link": "https://www.correiobraziliense.com.br/economia/2025/05/7145069-nos-temos-um-potencial-para-liderar-globalmente-afirma-fernando-azevedo.html"
+        },
+        {
+            "id": 2534,
+            "link": "https://www.poder360.com.br/poder-justica/dino-sugere-candidato-a-vice-para-eleicao-no-maranhao-assista/"
+        },
+        {
+            "id": 2499,
+            "link": "https://portalagita.com.br/acao-da-puc-minas-betim-vai-oferecer-diversos-servicos-gratuitos-neste-sabado-17-como-exames-palestras-e-oficinas/"
+        },
+        {
+            "id": 2500,
+            "link": "https://conexaoitajuba.com.br/boletim-cnx-13-maio-2025/"
+        },
+        {
+            "id": 2501,
+            "link": "https://defatoonline.com.br/?p=540084"
+        },
+        {
+            "id": 2502,
+            "link": "https://defatoonline.com.br/com-auditorio-lotado-e-poucas-respostas-vale-ignora-populacao-e-empurra-marketing-em-reuniao-sobre-ampliacao-das-cavas-em-itabira/"
+        },
+        {
+            "id": 2503,
+            "link": "https://esbrasil.com.br/joao-coser-eleito-presidente-comissao-rio-doce-2/"
+        },
+        {
+            "id": 2504,
+            "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2025/05/13/justica-autoriza-funcionamento-de-cemiterio-mas-pede-melhorias-para-evitar-contaminacao-em-guaxupe-mg.ghtml"
+        },
+        {
+            "id": 2507,
+            "link": "https://jornalclassivale.com.br/noticia/4329/ufv-cria-curativo-biodegradavel"
+        },
+        {
+            "id": 2509,
+            "link": "https://jornalggn.com.br/cidadania/erik-gomes-do-13-de-maio-a-formacao-da-classe-trabalhadora/"
+        },
+        {
+            "id": 2510,
+            "link": "https://jornalggn.com.br/opiniao/o-pdt-atual-e-a-traicao-ao-legado-de-brizola-por-carlos-f-alverga/"
+        },
+        {
+            "id": 2513,
+            "link": "https://jornalgeraes.com.br/projeto-social-alferes-busca-apoio-da-camara-de-mariana/"
+        },
+        {
+            "id": 2505,
+            "link": "https://imparcialnews.com.br/inmet-feriado-deve-ter-chuva-e-queda-de-temperatura-no-centro-sul-do-brasil/"
+        },
+        {
+            "id": 2508,
+            "link": "https://g37.com.br/minas-gerais/secretaria-de-fazenda-de-minas-gerais-abre-parcelamento-do-ipva-2025-vencido/"
+        },
+        {
+            "id": 2519,
+            "link": "https://plox.com.br/noticia/13/05/2025/massa-de-ar-frio-mantem-temperaturas-baixas-em-minas-ate-domingo"
+        },
+        {
+            "id": 2527,
+            "link": "https://vox97.com.br/noticia/12364/ipatinga-passa-a-entregar-medicamentos-de-alto-custo-para-pacientes"
+        }
+    ],
     "kept_records": [],
-    "deleted_records": [],
-    "strategic_kept": []
+    "deleted_records": []
 }
