@@ -1,0 +1,348 @@
+{
+    "generated_at": "2025-05-13T21:59:40.387874",
+    "summary": {
+        "total_duplicates_groups": 22,
+        "total_deleted": 26,
+        "total_kept": 22
+    },
+    "deleted_records": [
+        {
+            "id": 1552,
+            "titulo": "Adolescente assassinada durante aula: denúncias de violência em unidades de ensino crescem 22% em MG",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "12/05/2025"
+        },
+        {
+            "id": 2601,
+            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável",
+            "portal": "Mauá Agora",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2535,
+            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável – ABCD MAIOR",
+            "portal": "ABCD Maior",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2608,
+            "titulo": "Bocaiuva e São João da Lagoa promovem capacitação contra Aedes",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2464,
+            "titulo": "Com direito a chuveiro, buffet e quarto privativo, BH recebe primeira sala VIP rodoviária do Brasil",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2421,
+            "titulo": "Com direito a chuveiro, buffet e quarto privativo, BH recebe primeira sala VIP rodoviária do Brasil",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2607,
+            "titulo": "Eduardo Leite defende despolarização política e mira 2026 no PSD",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2463,
+            "titulo": "Falta de remédios na Farmácia de Minas atinge 48 itens: 'Trabalhar e comprar', lamenta usuário",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2422,
+            "titulo": "Falta de remédios na Farmácia de Minas atinge 48 itens: 'Trabalhar e comprar', lamenta usuário",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 738,
+            "titulo": "Governo Zema quer entregar UEMG e EMC para a União por meio do Propag",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "07/05/2025"
+        },
+        {
+            "id": 2373,
+            "titulo": "Kalil alfineta Cleitinho após CPI das Bets: ‘depois dessa, sou candidato a governador de Minas’",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2530,
+            "titulo": "Kalil alfineta Cleitinho após CPI das Bets: ‘depois dessa, sou candidato a governador de Minas’",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2586,
+            "titulo": "Kalil alfineta Cleitinho após CPI das Bets: ‘depois dessa, sou candidato a governador de Minas’",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2302,
+            "titulo": "Leninha lança candidatura ao PT-MG e defende fortalecer bases e ampliar presença nacional",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 1478,
+            "titulo": "Mina de Nióbio de Araxá pode ser transferida para o Governo Federal; entenda o impacto",
+            "portal": "JM Online",
+            "relevancia": null,
+            "data": "11/05/2025"
+        },
+        {
+            "id": 2613,
+            "titulo": "MPF reforça acompanhamento de consulta pública sobre norma da mineração",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2609,
+            "titulo": "Operação Dominância apreende bens e aplica multas contra garimpo ilegal",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 1631,
+            "titulo": "Para Zema, recomposição salarial de servidores só virá com adesão ao Propag",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "12/05/2025"
+        },
+        {
+            "id": 870,
+            "titulo": "Paulo Navarro - PAULO NAVARRO",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "08/05/2025"
+        },
+        {
+            "id": 1335,
+            "titulo": "População forma filas em centros de saúde de BH para se vacinar contra a gripe",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "10/05/2025"
+        },
+        {
+            "id": 2615,
+            "titulo": "Projeto de lei ameaça licenciamento ambiental e preocupa especialistas ambientais",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2602,
+            "titulo": "Revalidação de patrimônio reafirma compromisso mineiro com cultura negra",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2604,
+            "titulo": "Supermercados defendem contratação por hora como modelo mais flexível",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2375,
+            "titulo": "UFMG desenvolve novo teste para Covid-19 com custo estimado de R$ 1",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2374,
+            "titulo": "Veto de Zema à remoção de servidoras vítimas de violência irá a plenário com parecer pela manutenção",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 164,
+            "titulo": "Vídeo: Professora é agredida por aluno em escola da rede estadual, em BH",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "06/05/2025"
+        }
+    ],
+    "kept_records": [
+        {
+            "id": 1511,
+            "titulo": "Adolescente assassinada durante aula: denúncias de violência em unidades de ensino crescem 22% em MG",
+            "portal": "O Tempo",
+            "relevancia": "Útil",
+            "data": "12/05/2025"
+        },
+        {
+            "id": 2537,
+            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável",
+            "portal": "Mauá Agora",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2424,
+            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável – ABCD MAIOR",
+            "portal": "ABCD Maior",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2611,
+            "titulo": "Bocaiuva e São João da Lagoa promovem capacitação contra Aedes",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2588,
+            "titulo": "Com direito a chuveiro, buffet e quarto privativo, BH recebe primeira sala VIP rodoviária do Brasil",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2606,
+            "titulo": "Eduardo Leite defende despolarização política e mira 2026 no PSD",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2494,
+            "titulo": "Falta de remédios na Farmácia de Minas atinge 48 itens: 'Trabalhar e comprar', lamenta usuário",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 860,
+            "titulo": "Governo Zema quer entregar UEMG e EMC para a União por meio do Propag",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "07/05/2025"
+        },
+        {
+            "id": 2589,
+            "titulo": "Kalil alfineta Cleitinho após CPI das Bets: ‘depois dessa, sou candidato a governador de Minas’",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2177,
+            "titulo": "Leninha lança candidatura ao PT-MG e defende fortalecer bases e ampliar presença nacional",
+            "portal": "O Tempo",
+            "relevancia": "Suporte",
+            "data": "13/05/2025"
+        },
+        {
+            "id": 1459,
+            "titulo": "Mina de Nióbio de Araxá pode ser transferida para o Governo Federal; entenda o impacto",
+            "portal": "JM Online",
+            "relevancia": "util",
+            "data": "11/05/2025"
+        },
+        {
+            "id": 2610,
+            "titulo": "MPF reforça acompanhamento de consulta pública sobre norma da mineração",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2612,
+            "titulo": "Operação Dominância apreende bens e aplica multas contra garimpo ilegal",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 1847,
+            "titulo": "Para Zema, recomposição salarial de servidores só virá com adesão ao Propag",
+            "portal": "O Tempo",
+            "relevancia": "Útil",
+            "data": "12/05/2025"
+        },
+        {
+            "id": 160,
+            "titulo": "Paulo Navarro - PAULO NAVARRO",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "06/05/2025"
+        },
+        {
+            "id": 1413,
+            "titulo": "População forma filas em centros de saúde de BH para se vacinar contra a gripe",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "10/05/2025"
+        },
+        {
+            "id": 2603,
+            "titulo": "Projeto de lei ameaça licenciamento ambiental e preocupa especialistas ambientais",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2605,
+            "titulo": "Revalidação de patrimônio reafirma compromisso mineiro com cultura negra",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2614,
+            "titulo": "Supermercados defendem contratação por hora como modelo mais flexível",
+            "portal": "Novo Jornal",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2368,
+            "titulo": "UFMG desenvolve novo teste para Covid-19 com custo estimado de R$ 1",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "13/05/2025"
+        },
+        {
+            "id": 2466,
+            "titulo": "Veto de Zema à remoção de servidoras vítimas de violência irá a plenário com parecer pela manutenção",
+            "portal": "O Tempo",
+            "relevancia": "util",
+            "data": "13/05/2025"
+        },
+        {
+            "id": 247,
+            "titulo": "Vídeo: Professora é agredida por aluno em escola da rede estadual, em BH",
+            "portal": "O Tempo",
+            "relevancia": null,
+            "data": "06/05/2025"
+        }
+    ]
+}
