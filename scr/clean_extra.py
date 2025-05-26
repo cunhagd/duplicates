@@ -57,7 +57,7 @@ def clean_extra_duplicates():
                 GROUP BY titulo, portal
                 HAVING COUNT(*) > 1
             )
-            ORDER BY titulo, portal;
+            ORDER BY titulo, portal, data;
         """
 
         cursor.execute(query_duplicates)
@@ -94,13 +94,13 @@ def clean_extra_duplicates():
                 keep_record = relevant_records[0]
                 deleted = [r for r in records if r["id"] != keep_record["id"]]
             else:
-                # Mantém o mais antigo pela data
+                # Mantém o mais recente pela data
                 valid_records = [r for r in records if r["data_obj"] is not None]
                 if valid_records:
-                    keep_record = min(valid_records, key=lambda x: x["data_obj"])
+                    keep_record = max(valid_records, key=lambda x: x["data_obj"])
                 else:
-                    # Sem data válida, mantém o primeiro encontrado
-                    keep_record = records[0]
+                    # Sem data válida, mantém o último encontrado
+                    keep_record = records[-1]
                 deleted = [r for r in records if r["id"] != keep_record["id"]]
 
             kept_records.append(keep_record)
@@ -113,7 +113,6 @@ def clean_extra_duplicates():
             cursor.execute(delete_query, (delete_ids,))
             conn.commit()
             log_info(f"{len(delete_ids)} notícias duplicadas excluídas com base em título e portal.")
-
         else:
             log_info("Nenhuma duplicata encontrada com base em título e portal.")
 

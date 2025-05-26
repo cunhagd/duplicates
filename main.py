@@ -6,6 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'scr')))
 
 from find import main as find_duplicates
 from clean import main as clean_duplicates
+from clean_extra import main as clean_extra
 
 def main():
     print("Iniciando o processo de verificação e limpeza de duplicatas...")
@@ -18,10 +19,18 @@ def main():
         print(f"Erro ao executar o módulo de busca de duplicatas: {e}")
         sys.exit(1)
     
-    # Passo 2: Executa o módulo de limpeza de duplicatas
+    # Passo 2: Executa o módulo de limpeza de duplicatas por link
     print("\n--- Executando módulo de limpeza de duplicatas ---")
     try:
         clean_duplicates()
+    except Exception as e:
+        print(f"Erro ao executar o módulo de limpeza de duplicatas: {e}")
+        sys.exit(1)
+
+    # Passo 3: Executa o módulo de limpeza extra de duplicatas por titulo + portal
+    print("\n--- Executando módulo de limpeza de duplicatas extra ---")
+    try:
+        clean_extra()
     except Exception as e:
         print(f"Erro ao executar o módulo de limpeza de duplicatas: {e}")
         sys.exit(1)

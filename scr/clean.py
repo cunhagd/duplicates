@@ -117,12 +117,12 @@ def clean_duplicate_links():
             else:
                 valid_records = [r for r in records if r["data_obj"] is not None]
                 if not valid_records:
-                    kept_records.append(records[0])
-                    deleted = records[1:]
+                    kept_records.append(records[-1])  # Keep the last record if no valid dates
+                    deleted = records[:-1]
                 else:
-                    oldest_record = min(valid_records, key=lambda r: r["data_obj"])
-                    kept_records.append(oldest_record)
-                    deleted = [r for r in records if r["id"] != oldest_record["id"]]
+                    newest_record = max(valid_records, key=lambda r: r["data_obj"])  # Keep the most recent
+                    kept_records.append(newest_record)
+                    deleted = [r for r in records if r["id"] != newest_record["id"]]
 
                 deleted_records.extend(deleted)
                 delete_ids.extend([r["id"] for r in deleted])

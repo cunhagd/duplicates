@@ -1,124 +1,40 @@
 {
-    "generated_at": "2025-05-14T09:55:36.458248",
+    "generated_at": "2025-05-26T09:38:51.208762",
     "summary": {
-        "total_duplicates_groups": 8,
-        "total_deleted": 8,
-        "total_kept": 8
+        "total_duplicates_groups": 2,
+        "total_deleted": 2,
+        "total_kept": 2
     },
     "deleted_records": [
         {
-            "id": 2636,
-            "titulo": "Agência Minas Gerais | Governo de Minas digitaliza processo de emissão de autorizações para profissionais da educação em todo o estado",
-            "portal": "Mauá Agora",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2667,
-            "titulo": "Agência Minas Gerais | Governo de Minas lança edital de leilão virtual de imóveis pertencentes ao Estado",
-            "portal": "Mauá Agora",
-            "relevancia": null,
-            "data": "14/05/2025"
-        },
-        {
-            "id": 2664,
-            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável",
+            "id": 5617,
+            "titulo": "Agência Minas Gerais | Governo de Minas e grupo hoteleiro português inauguram Vila Galé Collection Ouro Preto",
             "portal": "Folha Centro Sul",
             "relevancia": null,
-            "data": "14/05/2025"
+            "data": "26/05/2025"
         },
         {
-            "id": 2537,
-            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável",
-            "portal": "Mauá Agora",
+            "id": 5616,
+            "titulo": "Copasa informa nova interdição de trânsito",
+            "portal": "Conexão Itajubá",
             "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2588,
-            "titulo": "Com direito a chuveiro, buffet e quarto privativo, BH recebe primeira sala VIP rodoviária do Brasil",
-            "portal": "O Tempo",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2494,
-            "titulo": "Falta de remédios na Farmácia de Minas atinge 48 itens: 'Trabalhar e comprar', lamenta usuário",
-            "portal": "O Tempo",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2621,
-            "titulo": "Kalil alfineta Cleitinho após CPI das Bets: ‘depois dessa, sou candidato a governador de Minas’",
-            "portal": "O Tempo",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2624,
-            "titulo": "Veto de Zema à remoção de servidoras vítimas de violência irá a plenário com parecer pela manutenção",
-            "portal": "O Tempo",
-            "relevancia": null,
-            "data": "13/05/2025"
+            "data": "26/05/2025"
         }
     ],
     "kept_records": [
         {
-            "id": 2633,
-            "titulo": "Agência Minas Gerais | Governo de Minas digitaliza processo de emissão de autorizações para profissionais da educação em todo o estado",
-            "portal": "Mauá Agora",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2407,
-            "titulo": "Agência Minas Gerais | Governo de Minas lança edital de leilão virtual de imóveis pertencentes ao Estado",
-            "portal": "Mauá Agora",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2641,
-            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável",
+            "id": 5519,
+            "titulo": "Agência Minas Gerais | Governo de Minas e grupo hoteleiro português inauguram Vila Galé Collection Ouro Preto",
             "portal": "Folha Centro Sul",
             "relevancia": null,
-            "data": "14/05/2025"
+            "data": "25/05/2025"
         },
         {
-            "id": 2632,
-            "titulo": "Agência Minas Gerais | Minas sedia Oficina Regional Sudeste para debater iniciativas de Contratações Públicas para o Desenvolvimento Sustentável",
-            "portal": "Mauá Agora",
+            "id": 3331,
+            "titulo": "Copasa informa nova interdição de trânsito",
+            "portal": "Conexão Itajubá",
             "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2623,
-            "titulo": "Com direito a chuveiro, buffet e quarto privativo, BH recebe primeira sala VIP rodoviária do Brasil",
-            "portal": "O Tempo",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2622,
-            "titulo": "Falta de remédios na Farmácia de Minas atinge 48 itens: 'Trabalhar e comprar', lamenta usuário",
-            "portal": "O Tempo",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2589,
-            "titulo": "Kalil alfineta Cleitinho após CPI das Bets: ‘depois dessa, sou candidato a governador de Minas’",
-            "portal": "O Tempo",
-            "relevancia": null,
-            "data": "13/05/2025"
-        },
-        {
-            "id": 2466,
-            "titulo": "Veto de Zema à remoção de servidoras vítimas de violência irá a plenário com parecer pela manutenção",
-            "portal": "O Tempo",
-            "relevancia": "util",
-            "data": "13/05/2025"
+            "data": "16/05/2025"
         }
     ]
 }
